@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<svg width="640" height="480" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <!-- Created with SVG-edit - https://github.com/SVG-Edit/svgedit-->
+ <defs>
+  <symbol height="24" id="svg_3" width="24" xmlns="http://www.w3.org/2000/svg"/>
+ </defs>
+ <g class="layer">
+  <title>Layer 1</title>
+  <use id="svg_4" transform="matrix(6.66667 0 0 6.66667 0 0)" x="37.35" xlink:href="#svg_3" y="21.45"/>
+ </g>
+</svg>
